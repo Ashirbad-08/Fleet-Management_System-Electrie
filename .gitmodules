@@ -1,6 +1,6 @@
 [submodule "Backend"]
 	path = Backend
-	url = https://github.com/Ashirbad-08/Fleet-Management-System-backend.git
+	url = https://github.com/Developer-85/Fleet-Management-System-backend.git
 [submodule "Frontend"]
 	path = Frontend
-	url = https://github.com/Ashirbad-08/fleet-management.git
+	url = https://github.com/Developer-85/fleet-management.git
